@@ -6,3 +6,6 @@ https://share.streamlit.io/kjman678/route_map_optimization/main/map.py
 - サイドバー で移動手段の台数（仮にヘリとしている）を1～4、異動する拠点を出発点の東京含め1～25まで変更して最適なルートを算定し地図上にルートを表示。
 - Google の ORTools を使用
 https://developers.google.com/optimization
+
+## 本アプリについて書いたブログ
+https://zenn.dev/megane_otoko/articles/041_route_optimization
